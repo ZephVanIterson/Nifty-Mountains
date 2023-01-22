@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1582227938 source:p:\ics4u\1niftymountains-zeph-van-iterson\nifty mountains\main.cpp
+	"header.h"
+
+1582227276 p:\ics4u\1niftymountains-zeph-van-iterson\nifty mountains\header.h
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<apmatrix.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdlib.h>
+	<math.h>
+
+1582654693 source:d:\zeph van iterson icsu4\1niftymountains-zeph-van-iterson\nifty mountains\main.cpp
+	"header.h"
+
+1582652304 d:\zeph van iterson icsu4\1niftymountains-zeph-van-iterson\nifty mountains\header.h
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<apmatrix.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdlib.h>
+	<math.h>
+
+1582654193 source:d:\zeph van iterson icsu4\1niftymountains-zeph-van-iterson\nifty mountains\functions.cpp
+	"header.h"
+
+1582681129 source:d:\ics4u\nifty mountains\functions.cpp
+	"header.h"
+
+1582681129 d:\ics4u\nifty mountains\header.h
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<apmatrix.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdlib.h>
+	<math.h>
+
+1582681129 source:d:\ics4u\nifty mountains\main.cpp
+	"header.h"
+
